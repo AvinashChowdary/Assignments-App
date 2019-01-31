@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignments</string>
+    <string name="transition_string">anim_transition</string>
+    <string name="loading">Loading</string>
+    <string name="network_not_available">Network Unavailable. Please connect to internet and try again.</string>
+    <string name="failed_to_get_assignments">Failed to get Assignments at this time. Please try again.</string>
+    <string name="problem_loading">There was a problem getting data. Please try again.</string>
+    <string name="no_assignment_details">Could not get details for this assignment. Please try again.</string>
+    <string name="assignment_title">Assignment Title</string>
+    <string name="description">Description</string>
+    <string name="due_date">Due Date:</string>
+    <string name="submit">Submit</string>
+    <string name="create_assignment">Create New Assignment</string>
+    <string name="saved_assignment_locally">Assignment saved locally</string>
+    <string name="no_assignments_found">Cound not find any assignments, try creating one.</string>
+    <string name="no_submissions_found">Could not find any submissions for this assignment.</string>
+</resources>
